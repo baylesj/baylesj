@@ -1,1 +1,2 @@
-<img src="gerrit-heatmap.svg" />
+
+![Gerrit contributions heatmap](./gerrit-heatmap.svg)
