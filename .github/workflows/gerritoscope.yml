@@ -1,0 +1,26 @@
+name: Update Gerrit statistics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate heatmap
+        uses: baylesj/gerritoscopy@main
+        with:
+          owner: baylesj
+          hosts: "chromium,webrtc,android"
+          output-svg: gerrit-heatmap.svg
+          svg-theme: github
+
+      - name: Commit updated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update Gerrit heatmap"
+          file_pattern: gerrit-heatmap.svg
