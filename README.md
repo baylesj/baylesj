@@ -1,6 +1,6 @@
 ![Gerrit contributions heatmap](./gerrit-heatmap.svg)
 
-*generated using my new tool, [gerritoscope](https://github.com/baylesj/gerritoscope)*
+*heatmap generated using my new tool, [gerritoscope](https://github.com/baylesj/gerritoscope)*
 
 I'm a Senior Software Engineer at Google, working in Chrome Media on the Video Stack and Cast Streaming.
 
