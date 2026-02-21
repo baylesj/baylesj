@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="740" height="140" viewBox="0 0 740 140" role="img" aria-label="gerritoscopy heatmap for jophba@chromium.org">
-<title>gerritoscopy · jophba@chromium.org</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="140" viewBox="0 0 740 140" role="img" aria-label="gerritoscope heatmap for jophba@chromium.org">
+<title>gerritoscope · jophba@chromium.org</title>
 <style>
 :root {
   --bg:#ffffff;
@@ -34,7 +34,7 @@ rect.week { stroke: none; }
 
 </style>
 <rect width="740" height="140" rx="6" fill="var(--bg)" stroke="var(--border)" stroke-width="1"/>
-<text x="16" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" font-weight="bold" fill="var(--title)">gerritoscopy · jophba@chromium.org [chromium, webrtc, android]</text>
+<text x="16" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" font-weight="bold" fill="var(--title)">gerritoscope · jophba@chromium.org [chromium, webrtc, android]</text>
 <text x="16" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--muted)">Feb</text>
 <text x="94" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--muted)">Apr</text>
 <text x="146" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--muted)">May</text>
