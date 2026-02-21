@@ -19,7 +19,7 @@ jobs:
           owner: jophba@chromium.org
           hosts: "chromium,webrtc,android"
           output-svg: gerrit-heatmap.svg
-          svg-theme: github
+          svg-theme: solarized-dark
 
       - name: Commit updated SVG
         uses: stefanzweifel/git-auto-commit-action@v5
