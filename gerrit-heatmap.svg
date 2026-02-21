@@ -2,31 +2,16 @@
 <title>gerritoscope · jophba@chromium.org</title>
 <style>
 :root {
-  --bg:#ffffff;
-  --border:#d0d7de;
-  --title:#24292f;
-  --text:#57606a;
-  --muted:#6e7781;
-  --l0:#ebedf0;
-  --l1:#9be9a8;
-  --l2:#40c463;
-  --l3:#30a14e;
-  --l4:#216e39;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg:#0d1117;
-    --border:#30363d;
-    --title:#c9d1d9;
-    --text:#8b949e;
-    --muted:#6e7781;
-    --l0:#161b22;
-    --l1:#0e4429;
-    --l2:#006d32;
-    --l3:#26a641;
-    --l4:#39d353;
-  }
+  --bg:#002b36;
+  --border:#073642;
+  --title:#93a1a1;
+  --text:#657b83;
+  --muted:#586e75;
+  --l0:#073642;
+  --l1:#0a3828;
+  --l2:#0a6640;
+  --l3:#1a8c52;
+  --l4:#2ab567;
 }
 rect.week { stroke: none; }
 .l0{fill:var(--l0)} .l1{fill:var(--l1)} .l2{fill:var(--l2)}
