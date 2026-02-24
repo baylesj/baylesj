@@ -83,10 +83,10 @@ rect.week { stroke: none; }
   <rect x="627" y="52" width="10" height="10" rx="2" class="week l3"><title>9 reviews – week of 2026-01-26</title></rect>
   <rect x="640" y="52" width="10" height="10" rx="2" class="week l4"><title>10 CLs, 13 reviews – week of 2026-02-02</title></rect>
   <rect x="653" y="52" width="10" height="10" rx="2" class="week l4"><title>9 CLs, 5 reviews – week of 2026-02-09</title></rect>
-  <rect x="666" y="52" width="10" height="10" rx="2" class="week l4"><title>8 CLs, 10 reviews – week of 2026-02-16</title></rect>
-  <rect x="679" y="52" width="10" height="10" rx="2" class="week l0"><title>No activity – week of 2026-02-23</title></rect>
+  <rect x="666" y="52" width="10" height="10" rx="2" class="week l4"><title>8 CLs, 9 reviews – week of 2026-02-16</title></rect>
+  <rect x="679" y="52" width="10" height="10" rx="2" class="week l2"><title>1 CL, 3 reviews – week of 2026-02-23</title></rect>
 </g>
 <text x="16" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="var(--muted)">peak: 38/wk</text>
 <line x1="16" y1="90" x2="724" y2="90" stroke="var(--border)" stroke-width="1"/>
-<text x="16" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">843 merged · 80/90d · 118 reviewed · <tspan fill="#3fb950">+1,160,858</tspan>/<tspan fill="#f85149">−132,705</tspan> · 0wk streak</text>
+<text x="16" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">844 merged · 81/90d · 119 reviewed · <tspan fill="#3fb950">+1,160,862</tspan>/<tspan fill="#f85149">−132,705</tspan> · 30wk streak</text>
 </svg>
