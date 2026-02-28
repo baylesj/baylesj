@@ -4,7 +4,7 @@
 
 I'm a Senior Software Engineer at Google, working in Chrome Media on the Video Stack and Cast Streaming.
 
-My current focuses are (1) security hardening Chrome through Rustification and robust fuzzing, (2) improving the debugging experience through robust tooling and documentation, and implementing new features for the Cast ecosystem. Most of my work is publicly available through the [Chromium Review](http://chromium-review.googlesource.com/q/owner:jophba@chromium.org) system.
+My current focuses are security hardening Chrome through Rustification and robust fuzzing, improving the debugging experience through robust tooling and documentation, and implementing new features for the Cast ecosystem. Most of my work is publicly available through the [Chromium Review](http://chromium-review.googlesource.com/q/owner:jophba@chromium.org) system.
 
 In my spare time I make electronic music as [Chasma Sound](https://soundcloud.com/chasmasound), read (especially Sci-fi & Fantasy), work on my Home Assistant configs, stay active, and spend time with friends and family.
 
