@@ -103,5 +103,5 @@ rect.week { stroke: none; }
 </g>
 <text x="16" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="var(--muted)">peak: 38/wk</text>
 <line x1="16" y1="90" x2="724" y2="90" stroke="var(--border)" stroke-width="1"/>
-<text x="16" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">854 merged · 68/90d · 108 reviewed · <tspan fill="#3fb950">+1,163,358</tspan>/<tspan fill="#f85149">−137,064</tspan> · 33wk streak</text>
+<text x="16" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">854 merged · 67/90d · 105 reviewed · <tspan fill="#3fb950">+1,163,358</tspan>/<tspan fill="#f85149">−137,064</tspan> · 33wk streak</text>
 </svg>
