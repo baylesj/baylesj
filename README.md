@@ -1,6 +1,6 @@
 ![Gerrit contributions heatmap](./gerrit-heatmap.svg)
 
-*Heatmap generated using [gerritoscope](https://github.com/baylesj/gerritoscope). For more detailed stats, see the incomparable [Chrome Commit Tracker](https://chrome-commit-tracker.arthursonzogni.com/individuals?developers=jophba) (although it regrettably does not include Open Screen at this time)).*
+*Heatmap generated using [gerritoscope](https://github.com/baylesj/gerritoscope). For more detailed stats, see the incomparable [Chrome Commit Tracker](https://chrome-commit-tracker.arthursonzogni.com/individuals?developers=jophba) (although it regrettably does not include Open Screen at this time).*
 
 I'm a Senior Software Engineer at Google, working in Chrome Media on the Video Stack and Cast Streaming.
 
