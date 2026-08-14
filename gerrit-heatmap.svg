@@ -99,9 +99,9 @@ rect.week { stroke: none; }
   <rect x="640" y="52" width="10" height="10" rx="2" class="week l2"><title>5 reviews – week of 2026-07-20</title></rect>
   <rect x="653" y="52" width="10" height="10" rx="2" class="week l4"><title>9 CLs, 29 reviews – week of 2026-07-27</title></rect>
   <rect x="666" y="52" width="10" height="10" rx="2" class="week l4"><title>8 CLs, 34 reviews – week of 2026-08-03</title></rect>
-  <rect x="679" y="52" width="10" height="10" rx="2" class="week l4"><title>3 CLs, 23 reviews – week of 2026-08-10</title></rect>
+  <rect x="679" y="52" width="10" height="10" rx="2" class="week l4"><title>6 CLs, 30 reviews – week of 2026-08-10</title></rect>
 </g>
 <text x="16" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="var(--muted)">peak: 42/wk</text>
 <line x1="16" y1="90" x2="724" y2="90" stroke="var(--border)" stroke-width="1"/>
-<text x="16" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">1,001 merged · 75/90d · 200 reviewed · <tspan fill="#3fb950">+1,289,414</tspan>/<tspan fill="#f85149">−1,267,170</tspan> · 52wk streak</text>
+<text x="16" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">1,004 merged · 78/90d · 207 reviewed · <tspan fill="#3fb950">+1,289,971</tspan>/<tspan fill="#f85149">−1,267,737</tspan> · 52wk streak</text>
 </svg>
