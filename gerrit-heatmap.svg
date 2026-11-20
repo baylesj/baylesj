@@ -392,7 +392,7 @@ rect.week { stroke: none; }
   <rect x="664" y="80" width="10" height="10" rx="2" class="week l4"><title>8 CLs, 12 reviews – 2026-10-28</title></rect>
   <rect x="664" y="93" width="10" height="10" rx="2" class="week l4"><title>8 CLs, 9 reviews – 2026-10-29</title></rect>
   <rect x="664" y="106" width="10" height="10" rx="2" class="week l4"><title>4 CLs, 9 reviews – 2026-10-30</title></rect>
-  <rect x="664" y="119" width="10" height="10" rx="2" class="week l3"><title>4 reviews – 2026-10-31</title></rect>
+  <rect x="664" y="119" width="10" height="10" rx="2" class="week l2"><title>3 reviews – 2026-10-31</title></rect>
   <rect x="664" y="132" width="10" height="10" rx="2" class="week l2"><title>3 reviews – 2026-11-01</title></rect>
   <rect x="677" y="54" width="10" height="10" rx="2" class="week l4"><title>7 reviews – 2026-11-02</title></rect>
   <rect x="677" y="67" width="10" height="10" rx="2" class="week l4"><title>11 reviews – 2026-11-03</title></rect>
@@ -410,13 +410,13 @@ rect.week { stroke: none; }
   <rect x="690" y="132" width="10" height="10" rx="2" class="week l0"><title>No activity – 2026-11-15</title></rect>
   <rect x="703" y="54" width="10" height="10" rx="2" class="week l4"><title>4 CLs, 11 reviews – 2026-11-16</title></rect>
   <rect x="703" y="67" width="10" height="10" rx="2" class="week l4"><title>7 CLs, 13 reviews – 2026-11-17</title></rect>
-  <rect x="703" y="80" width="10" height="10" rx="2" class="week l4"><title>11 CLs, 21 reviews – 2026-11-18</title></rect>
-  <rect x="703" y="93" width="10" height="10" rx="2" class="week l4"><title>4 CLs, 7 reviews – 2026-11-19</title></rect>
-  <rect x="703" y="106" width="10" height="10" rx="2" class="week l0"><title>No activity – 2026-11-20</title></rect>
+  <rect x="703" y="80" width="10" height="10" rx="2" class="week l4"><title>11 CLs, 18 reviews – 2026-11-18</title></rect>
+  <rect x="703" y="93" width="10" height="10" rx="2" class="week l4"><title>8 CLs, 19 reviews – 2026-11-19</title></rect>
+  <rect x="703" y="106" width="10" height="10" rx="2" class="week l4"><title>1 CL, 14 reviews – 2026-11-20</title></rect>
   <rect x="703" y="119" width="10" height="10" rx="2" class="week l0"><title>No activity – 2026-11-21</title></rect>
   <rect x="703" y="132" width="10" height="10" rx="2" class="week l0"><title>No activity – 2026-11-22</title></rect>
 </g>
 <text x="16" y="158" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="var(--muted)">peak: 46/day</text>
 <line x1="16" y1="172" x2="724" y2="172" stroke="var(--border)" stroke-width="1"/>
-<text x="16" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">1,242 merged · 230/90d · 966 reviewed · <tspan fill="#3fb950">+1,372,861</tspan>/<tspan fill="#f85149">−1,302,620</tspan> · 4d streak</text>
+<text x="16" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="var(--text)">1,247 merged · 235/90d · 987 reviewed · <tspan fill="#3fb950">+1,374,077</tspan>/<tspan fill="#f85149">−1,302,746</tspan> · 5d streak</text>
 </svg>
